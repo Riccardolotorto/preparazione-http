@@ -2,10 +2,25 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "prenotazione 1"
+    },
+    {
+      "id": 2,
+      "title": "prenotazione 2"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+  {
+    "nome": "riccardo",
+    "cognome": "lotorto",
+    "data": "29/04/2024",
+    "ora": "12.32"
+  },
+  {
+    "nome": "riccardo",
+    "cognome": "lotorto",
+    "data": "29/04/2024",
+    "ora": "12.32"
+  },
+  ]
 }
